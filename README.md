@@ -79,8 +79,8 @@ This repository contains the tasks I completed during my **Data Analytics Intern
 ## 📌 How to Use  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/yourusername/elevvo-tech-data-analytics.git
-   cd elevvo-tech-data-analytics
+   git clone https://github.com/pendragon/elevvo_tech_internship.git
+   cd elevvo_tech_internship
    ```
 2. Explore project folders:  
    - `Task1_Excel_Dashboard/`  
@@ -95,15 +95,17 @@ This repository contains the tasks I completed during my **Data Analytics Intern
 ## 🏢 Internship Information  
 - **Company:** Elevvo Tech  
 - **Role:** Data Analytics Intern  
-- **Duration:** [Add your internship duration here]  
+- **Duration:** 1 Month  
 - **Focus Areas:** Data Cleaning, EDA, Visualization, BI Reporting  
 
 ---
 
 ## 📧 Contact  
 For any inquiries, feel free to connect with me:  
-- **LinkedIn:** [Your LinkedIn Profile]  
-- **Email:** [Your Email Address]  
+- **LinkedIn:** www.linkedin.com/in/
+abdul-samad-owoseni-0234a225b
+Vanity URL name 
+- **Email:** abdussamadowoseni28@gmail.com  
 
 ---
 
