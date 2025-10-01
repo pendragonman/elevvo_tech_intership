@@ -103,8 +103,7 @@ This repository contains the tasks I completed during my **Data Analytics Intern
 ## 📧 Contact  
 For any inquiries, feel free to connect with me:  
 - **LinkedIn:** www.linkedin.com/in/
-abdul-samad-owoseni-0234a225b
-Vanity URL name 
+abdul-samad-owoseni-0234a225b/ 
 - **Email:** abdussamadowoseni28@gmail.com  
 
 ---
