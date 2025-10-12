@@ -20,7 +20,7 @@ It focuses on analyzing **Super Store Slaes** to generate insights and data-driv
 ---
 
 ## 🚀 View the Dashboard
-👉 **[Click here to view the live Power BI report](https://app.powerbi.com/groups/me/reports/d4d2e214-92f1-407b-9647-ffad9b786de8?ctid=5fe78ac1-1afe-4009-aa04-a71efb4a5042&pbi_source=linkShare)**  
+👉 **[Click here to view the live Power BI report](https://app.powerbi.com/groups/0aaa0546-8eed-478e-a4df-07ea30500b22/reports/d4d2e214-92f1-407b-9647-ffad9b786de8?ctid=5fe78ac1-1afe-4009-aa04-a71efb4a5042&pbi_source=linkShare&bookmarkGuid=fb23a782-d481-4e32-937a-45836b3886ba)**  
 
 
 ---
